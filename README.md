@@ -1,5 +1,5 @@
 # SALES PERFORMANCE DASHBOARD USING EXCEL
-
+This hands-on project focuses on developing an insightful dashboard using Microsoft Excel.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
